@@ -1,4 +1,8 @@
 # DIO_TQI_FullStackDeveloper
+
+<div align="center"><img height="200em" src="https://hermes.digitalinnovation.one/tracks/3c8be628-5138-4b63-9cfa-e5313cc03103.png"/><br>
+--------------------------------------------------------------------
+</div>
 Criado Repositório no Github para colocar os desafios de projeto do TQI FullStack do Dio.
 
 TQI Fullstack Developer
